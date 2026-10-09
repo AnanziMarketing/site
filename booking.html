@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <meta
+        name="theme-color"
+        content="#071a2b"
+    >
+
+    <title>Booking | Ananzi Marketing</title>
+
+    <link
+        rel="stylesheet"
+        href="assets/css/style.css"
+    >
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap"
+        rel="stylesheet"
+    >
+
+</head>
+
+<body>
+
+<div id="site-header"></div>
+
+<main>
+
+    <section class="bookingPage-hero booking-hero">
+
+        <div class="page-hero-overlay"></div>
+
+        <div class="container page-hero-content">
+
+            <span class="eyebrow light">
+                START PLANNING
+            </span>
+
+            <h1>
+                Let's plan your
+                <span>next journey.</span>
+            </h1>
+
+            <p>
+                Complete the form and the Ananzi team will
+                help you with your travel requirements.
+            </p>
+
+        </div>
+
+    </section>
+
+
+    <section class="section">
+
+        <div class="container booking-layout">
+
+            <div class="booking-intro">
+
+                <span class="eyebrow">
+                    BOOK WITH ANANZI
+                </span>
+
+                <h2>
+                    Tell us what
+                    you're looking for.
+                </h2>
+
+                <p>
+                    Whether you're planning a group tour,
+                    school excursion, team-building event or
+                    another travel experience, send us your requirements.
+                </p>
+
+                <div class="contact-mini">
+
+                    <div>
+                        <span>PHONE</span>
+                        <strong>082 707 2565</strong>
+                    </div>
+
+                    <div>
+                        <span>EMAIL</span>
+                        <strong>holidays@ananzimarketing.co.za</strong>
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <form
+                class="form-card"
+                id="bookingForm"
+            >
+
+                <div class="form-heading">
+
+                    <span class="eyebrow">
+                        BOOKING REQUEST
+                    </span>
+
+                    <h3>
+                        Your details
+                    </h3>
+
+                </div>
+
+
+                <div class="form-grid">
+
+                    <div class="form-group">
+
+                        <label for="bookingName">
+                            Full Name
+                        </label>
+
+                        <input
+                            type="text"
+                            id="bookingName"
+                            name="name"
+                            required
+                        >
+
+                    </div>
+
+
+                    <div class="form-group">
+
+                        <label for="bookingEmail">
+                            Email Address
+                        </label>
+
+                        <input
+                            type="email"
+                            id="bookingEmail"
+                            name="email"
+                            required
+                        >
+
+                    </div>
+
+
+                    <div class="form-group">
+
+                        <label for="bookingPhone">
+                            Phone / WhatsApp
+                        </label>
+
+                        <input
+                            type="tel"
+                            id="bookingPhone"
+                            name="phone"
+                            required
+                        >
+
+                    </div>
+
+
+                    <div class="form-group">
+
+                        <label for="bookingGuests">
+                            Number of Travellers
+                        </label>
+
+                        <input
+                            type="number"
+                            id="bookingGuests"
+                            name="guests"
+                            min="1"
+                            value="1"
+                        >
+
+                    </div>
+
+
+                    <div class="form-group full">
+
+                        <label for="bookingExperience">
+                            Tour / Service
+                        </label>
+
+                        <input
+                            type="text"
+                            id="bookingExperience"
+                            name="experience"
+                            placeholder="What are you interested in?"
+                            required
+                        >
+
+                    </div>
+
+
+                    <div class="form-group">
+
+                        <label for="bookingDate">
+                            Preferred Date
+                        </label>
+
+                        <input
+                            type="date"
+                            id="bookingDate"
+                            name="date"
+                        >
+
+                    </div>
+
+
+                    <div class="form-group">
+
+                        <label for="bookingType">
+                            Enquiry Type
+                        </label>
+
+                        <select
+                            id="bookingType"
+                            name="type"
+                        >
+
+                            <option value="Tour">
+                                Tour
+                            </option>
+
+                            <option value="Team Building">
+                                Team Building
+                            </option>
+
+                            <option value="School Tour">
+                                School Tour
+                            </option>
+
+                            <option value="Accommodation">
+                                Accommodation
+                            </option>
+
+                            <option value="Other">
+                                Other
+                            </option>
+
+                        </select>
+
+                    </div>
+
+
+                    <div class="form-group full">
+
+                        <label for="bookingMessage">
+                            Additional Information
+                        </label>
+
+                        <textarea
+                            id="bookingMessage"
+                            name="message"
+                            rows="5"
+                            placeholder="Tell us anything else we should know..."
+                        ></textarea>
+
+                    </div>
+
+                </div>
+
+
+                <button
+                    type="submit"
+                    class="btn btn-dark full-button"
+                >
+                    Send Booking Request
+                    <span>→</span>
+                </button>
+
+                <p class="form-note">
+                    Your request will open WhatsApp with your
+                    booking information ready to send.
+                </p>
+
+            </form>
+
+        </div>
+
+    </section>
+
+</main>
+
+<div id="site-footer"></div>
+
+<a
+    href="https://wa.me/27827072565"
+    class="whatsapp-button"
+    target="_blank"
+    rel="noopener"
+>
+    <img
+        src="assets/img/whatsapp.png"
+        alt="WhatsApp"
+    >
+</a>
+
+<script src="assets/js/script.js"></script>
+
+</body>
+</html>
