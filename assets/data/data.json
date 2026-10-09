@@ -1,0 +1,612 @@
+{
+    "site": {
+        "name": "Ananzi Marketing",
+        "fullName": "Ananzi Marketing and Travel",
+        "phone": "082 707 2565",
+        "phoneRaw": "27827072565",
+        "alternativePhone": "068 417 4712",
+        "email": "holidays@ananzimarketing.co.za",
+        "whatsapp": "27827072565",
+        "established": "2005"
+    },
+
+    "about": {
+        "vision": "To be a leading travel and tour operator in South Africa whilst faithfully demonstrating our commitment towards social and environmental responsibility.",
+        "mission": "To become a premier service provider of world-class economical tours while building long-term relationships with customers through quality service and client support.",
+        "goals": [
+            {
+                "title": "Trust",
+                "text": "Always remain true and legitimate to our clients."
+            },
+            {
+                "title": "Service",
+                "text": "Deliver quality service throughout the travel experience."
+            },
+            {
+                "title": "Value",
+                "text": "Create memorable experiences at competitive prices."
+            },
+            {
+                "title": "Experience",
+                "text": "Use our travel knowledge to create better journeys."
+            }
+        ]
+    },
+
+    "team": [
+        {
+            "name": "Marlin Veerasamy",
+            "role": "Director / Travel Strategist",
+            "image": "assets/img/team/marlin.jpg",
+            "bio": "A travel industry professional with extensive experience in developing travel products and memorable guest experiences."
+        },
+        {
+            "name": "Vedna Nikki Veerasamy",
+            "role": "Travel Coordinator",
+            "image": "assets/img/team/nikki.jpg",
+            "bio": "Part of the management and coordination team, bringing experience, organisation and an adventurous spirit to the Ananzi experience."
+        },
+        {
+            "name": "Monique Koekemoer",
+            "role": "Graphic Design & Digital Marketing",
+            "image": "assets/img/team/monique.png",
+            "bio": "A creative specialist working across graphic design, branding, digital marketing and visual communication."
+        }
+    ],
+
+    "experiences": [
+        {
+            "id": "group-tours",
+            "type": "tour",
+            "category": "Group Tours",
+            "title": "Group Tours",
+            "location": "South Africa & Beyond",
+            "description": "Curated group travel experiences designed around comfort, discovery and unforgettable memories.",
+            "info": "Travel together, discover more and create unforgettable memories with expertly planned group journeys.",
+            "price": "Request a Quote >",
+            "image": "assets/img/gallery/gal001.jpg",
+            "pdf": "assets/pdf/ananziExperiences_Flyer.pdf",
+            "badge": "Popular",
+            "link": "tour-details.html?id=group-tours"
+        },
+        {
+            "id": "school-tours",
+            "type": "tour",
+            "category": "School Tours",
+            "title": "School Tours & Excursions",
+            "location": "South Africa",
+            "description": "Educational trips and excursions designed to combine learning, discovery and fun.",
+            "info": "Educational adventures that turn every destination into an opportunity to learn, explore and have fun.",
+            "price": "Request a Quote >",
+            "image": "assets/img/gallery/gal002.jpg",
+            "badge": "Schools",
+            "link": "tour-details.html?id=school-tours"
+        },
+        {
+            "id": "family-getaways",
+            "type": "tour",
+            "category": "Leisure",
+            "title": "Family Getaways",
+            "location": "South Africa",
+            "description": "Relaxing family travel experiences with accommodation and activities tailored to your needs.",
+            "info": "Enjoy stress-free family holidays with comfortable accommodation, exciting activities and memorable experiences.",
+            "price": "Request a Quote >",
+            "image": "assets/img/gallery/gal003.jpg",
+            "badge": "Leisure",
+            "link": "tour-details.html?id=family-getaways"
+        },
+        {
+            "id": "senior-tours",
+            "type": "tour",
+            "category": "Group Tours",
+            "title": "Senior Citizen Tours",
+            "location": "South Africa",
+            "description": "Comfortable and carefully planned group experiences for senior travellers.",
+            "info": "Relaxed and comfortable travel experiences thoughtfully planned with senior travellers in mind.",
+            "price": "Request a Quote >",
+            "image": "assets/img/gallery/gal004.jpg",
+            "badge": "Group",
+            "link": "tour-details.html?id=senior-tours"
+        },
+        {
+            "id": "international-travel",
+            "type": "tour",
+            "category": "International",
+            "title": "International Travel",
+            "location": "Worldwide",
+            "description": "International travel planning, accommodation and curated experiences.",
+            "info": "From flights and accommodation to unforgettable experiences, we help make international travel simple.",
+            "price": "Request a Quote >",
+            "image": "assets/img/gallery/gal005.jpg",
+            "badge": "International",
+            "link": "tour-details.html?id=international-travel"
+        },
+        {
+            "id": "cruises",
+            "type": "tour",
+            "category": "Cruises",
+            "title": "MSC Cruises",
+            "location": "International",
+            "description": "Cruise holidays for travellers looking for a different way to experience the world.",
+            "info": "Set sail on unforgettable MSC Cruises adventures with comfortable accommodation, entertainment and incredible destinations.",
+            "price": "Request a Quote >",
+            "image": "assets/img/gallery/gal006.jpg",
+            "badge": "Cruise",
+            "link": "tour-details.html?id=cruises"
+        },
+        {
+            "id": "team-building",
+            "type": "team",
+            "category": "Team Building",
+            "title": "Corporate Team Building",
+            "location": "South Africa",
+            "description": "Ananzi Marketing and Travel offers exciting and engaging team-building experiences designed to strengthen teamwork, communication, and problem-solving skills in any organization. We organize activities ranging from outdoor adventures like hiking, obstacle courses, and treasure hunts, to creative indoor workshops and challenges. Our team-building packages are customizable to meet your organization’s specific goals, whether you’re looking to boost morale, improve leadership skills, or simply create a stronger sense of camaraderie among your team members. With expert facilitators and a focus on collaboration and fun, we ensure your team-building event is impactful, enjoyable, and rewarding.",
+            "info": "Build stronger teams through engaging activities designed to improve communication, collaboration and team spirit.",
+            "price": "Request a Quote >",
+            "image": "assets/img/gallery/gal007.jpg",
+            "badge": "Corporate",
+            "link": "teambuilding.html"
+        },
+        {
+            "id": "bus-hire",
+            "type": "tour",
+            "category": "Transport",
+            "title": "Bus & Coach Hire",
+            "location": "South Africa",
+            "description": "Transport solutions for groups, excursions, events and organised travel.",
+            "info": "Reliable group transport for tours, excursions, events and organised travel across South Africa.",
+            "price": "Request a Quote >",
+            "image": "assets/img/gallery/gal008.jpg",
+            "badge": "Transport",
+            "link": "tour-details.html?id=bus-hire"
+        }
+    ],
+
+    "upcomingTours": [
+        {
+            "id": "upcoming-001",
+            "type": "tour",
+            "category": "Upcoming Tour",
+            "title": "The Great Escape – Nature's Wonder in Mpumalanga",
+            "location": "JHB by Bus",
+            "date": "15th to 19th February 2027",
+            "description": "Group Special Offer: Experience 5 unforgettable days exploring the natural beauty of Mpumalanga, with comfortable accommodation, meals, activities and great entertainment included.",
+            "info": "Travel from Johannesburg by bus and enjoy a carefully planned group getaway designed to give you a memorable experience in one of South Africa's most beautiful provinces.",
+            "price": "R5,999 p/p",
+            "pdf": "assets/pdf/MpumalangaJHB_pdf.pdf",
+            "image": "assets/img/gallery/gal001.jpg",
+            "badge": "Upcoming",
+            "link": "tour-details.html?id=upcoming-001"
+        },
+        {
+            "id": "upcoming-002",
+            "type": "tour",
+            "category": "Upcoming Tour",
+            "title": "The Great Escape – Nature's Wonder in Mpumalanga",
+            "location": "DBN to JHB by Air",
+            "date": "15th to 19th February 2027",
+            "description": "Group Special Offer: Experience 5 unforgettable days exploring the natural beauty of Mpumalanga, with flights, accommodation, meals, activities and great entertainment included.",
+            "info": "Fly from Durban to Johannesburg with FlySafair before continuing your journey to experience the breathtaking beauty and attractions of Mpumalanga.",
+            "price": "R7,995 p/p",
+            "pdf": "assets/pdf/MpumalangaDBNJHBbyAIR_pdf.pdf",
+            "image": "assets/img/gallery/gal002.jpg",
+            "badge": "Upcoming",
+            "link": "tour-details.html?id=upcoming-002"
+        },
+        {
+            "id": "upcoming-003",
+            "type": "tour",
+            "category": "Upcoming Tour",
+            "title": "Gauteng, Hartebees, Sun City & Warmbaths",
+            "location": "Gauteng • Limpopo • North West Province",
+            "date": "9th to 13th November 2026",
+            "description": "4 Destinations. 1 Unforgettable Experience! Discover some of South Africa's most exciting attractions with a memorable multi-destination getaway packed with sightseeing, experiences and entertainment.",
+            "info": "Explore North West Province, Gauteng and Limpopo while enjoying luxury transport, accommodation and daily meals throughout your journey.",
+            "price": "R4,995 p/p",
+            "pdf": "assets/pdf/gautengNOV_pdf.pdf",
+            "image": "assets/img/gallery/gal002.jpg",
+            "badge": "Upcoming",
+            "link": "tour-details.html?id=upcoming-003"
+        },
+        {
+            "id": "upcoming-004",
+            "type": "tour",
+            "category": "Upcoming Tour",
+            "title": "Zanzibar Getaway Package",
+            "location": "Zanzibar",
+            "date": "Coming Soon",
+            "description": "Unwind. Explore. Experience Zanzibar. Enjoy an unforgettable island getaway with flights, comfortable accommodation, return transfers and daily breakfast and dinner included.",
+            "info": "Escape to the beautiful island of Zanzibar and experience a relaxing getaway designed for travellers looking to unwind, explore and create unforgettable memories.",
+            "price": "R19,500 p/p",
+            "pdf": "assets/pdf/zanzibar_pdf.pdf",
+            "image": "assets/img/gallery/gal003.jpg",
+            "badge": "International • Upcoming",
+            "link": "tour-details.html?id=upcoming-004"
+        }
+    ],
+
+    "whyFacts": [
+        {
+            "number": "01",
+            "title": "Curated Experiences",
+            "text": "Travel experiences planned around your needs."
+        },
+        {
+            "number": "02",
+            "title": "Travel Knowledge",
+            "text": "Industry experience helping you plan with confidence."
+        },
+        {
+            "number": "03",
+            "title": "Personal Service",
+            "text": "A real team helping you from enquiry to journey."
+        },
+        {
+            "number": "04",
+            "title": "Memorable Journeys",
+            "text": "Travel designed to create stories worth remembering."
+        }
+    ],
+
+    "teamOutcomes": [
+        {
+            "title": "Communication",
+            "text": "Encourage stronger communication between team members."
+        },
+        {
+            "title": "Confidence",
+            "text": "Build confidence through practical challenges."
+        },
+        {
+            "title": "Trust",
+            "text": "Create opportunities for teams to develop trust."
+        },
+        {
+            "title": "Teamwork",
+            "text": "Strengthen collaboration through shared experiences."
+        },
+        {
+            "title": "Planning",
+            "text": "Develop problem-solving and planning skills."
+        },
+        {
+            "title": "Fun",
+            "text": "Give your team an opportunity to connect outside the office."
+        }
+    ],
+
+    "special": {
+        "title": "Your next adventure is waiting.",
+        "description": "Speak to the Ananzi team about upcoming travel opportunities and personalised experiences."
+    },
+
+    "tourReviews": [
+        {
+            "name": "Sarah Johnson",
+            "location": "Durban",
+            "rating": 5,
+            "text": "Thank you for this awesome trip Marlin, I actually didn't believe you when you said $4,950 for four days in Mozambique at a luxury hotel with breakfast i seriously didn't believe you. I said let me try you out cooz i heard of Ananzi and their tours however I must admit, I have been to so many countries international and this has to be my best trip. Thank you Marlin!"
+        },
+        {
+            "name": "Michael Naidoo",
+            "location": "Johannesburg",
+            "rating": 5,
+            "text": "Hi Marlin on behalf of our group we are really thankful to you for all that you have done. Your really made us feel so good during this last few days on Mozanbique especially taking us to all those nice places. Our highlight was definately the Portuguese Island; Santa Maria Island and Inhaca Island and the boat experience. We really enjoyed the beautiful hotel we stayed in, it was the best hotel, Thank you Marlin."
+        },
+        {
+            "name": "Priya Singh",
+            "location": "KwaZulu-Natal",
+            "rating": 5,
+            "text": "Thank you Marlin for an enjoyable stay in Mozanbique. I have been to Mozanbique previously but have not seen any of the places that you took us to which was well worth the money! Can't wait for your next trip to Sun City and Warmbaths!"
+        },
+        {
+            "name": "Daniel Adams",
+            "location": "Durban",
+            "rating": 4,
+            "text": "Thank you for an amazing and wonderful trup to Victoria Falls. It was my first time with Ananzi Marketing and Tours and you will certainly be joining you guys on more tours. Thank you Master M."
+        },
+        {
+            "name": "Lauren Moodley",
+            "location": "Durban",
+            "rating": 5,
+            "text": "To Marlin & Nikki Ananzi Travel Masters, we would like to say a huge thank you to both of you for an amazing journey to St. Lucia Wetlands Tour. It was an absolutely amazing experience with you guys. we enjoyed everything plus the good food and the lovely places we enjoyed. Look forward to our next journey with you guys coming soon."
+        },
+        {
+            "name": "Rajesh Pillay",
+            "location": "Pietermaritzburg",
+            "rating": 5,
+            "text": "Thank you Nikki and Marlin for an awesome, memorable trip. You radiated so much of love and care towards us all. May God's richest blessings shine upon you, hubby and crew."
+        },
+        {
+            "name": "Amanda Smith",
+            "location": "Johannesburg",
+            "rating": 5,
+            "text": "Thank you Team Ananzi Marketing Travel Masters for an amazing trip to St. Lucia Wetlands and World Heritage Site. This was one of the my best tours ever. Thank you so much dear Nikki and Marlin for this excellent well planned trip. Remain blessed and I look forward to our next outing with the Retired Nurses Group."
+        },
+        {
+            "name": "Jason Govender",
+            "location": "Durban",
+            "rating": 4,
+            "text": "Our awesome host Nikki and her hubby Marlin who went the exrta mile to keep everyone happy and relaxed throughout the journey thank you guys, both of you are awesome and YOU ROCK keep going."
+        },
+        {
+            "name": "Thandi Mkhize",
+            "location": "KwaZulu-Natal",
+            "rating": 5,
+            "text": "Good evening everyone. This was my second vacation with Marlin and Nikki. I had an incredible holiday. Rama you have beautiful said everything for each and every one of us. God bless you all."
+        }
+    ],
+
+    "customerReviews": [
+        {
+            "name": "Navin",
+            "location": "Tala Game Reserve",
+            "rating": 5,
+            "text": "Hi Marlin. Many thanks for your travel and tourism service. It was awesome. Lots of memories were made."
+        },
+        {
+            "name": "Shane Govender",
+            "location": "Tala Game Reserve",
+            "rating": 5,
+            "text": "Proverbs 17:22 reminds us,'Laughter soothes the heart like good medicine.' I believe it strengthens you and is good for your hear, releases endorphins. Thank you Master M and Vedna for a fantabulous day at Tala Game Reserve. You really keep up to you name."
+        },
+        {
+            "name": "Dareesa",
+            "location": "Tala Game Reserve",
+            "rating": 5,
+            "text": "A heartfelt thank you to Nikki and Marlin for an amazing and beautiful day trip to Tala Game Reserve! Everything was beautifully organized, and we had such a memorable experience. Thank you for your kindness, professionalism, and all the effort you put into making the day so special. Looking forward to the next Adventure"
+        },
+        {
+            "name": "Jay",
+            "location": "KwaZulu-Natal",
+            "rating": 5,
+            "text": "Thank you Marlin and Nikki for a wonderful day. Also happy Birthday Marlin for tomorrow. All the best bru, "
+        },
+        {
+            "name": "Jikki Maistry",
+            "location": "Tala Game Reserve",
+            "rating": 5,
+            "text": "Thank you Nikki and Marlin for another unforgettable, memorable experience. my boys enjoyed the game drivel and the beautiful experience at Tala Game Reserve."
+        },
+        {
+            "name": "Gonum Govender",
+            "location": "Durban",
+            "rating": 5,
+            "text": "Thank you Nikki and Marlin for Discovering a new animal sanctuary and also Master M for his knowledge on the Tala Game Tour. Woww what an Experience."
+        },
+        {
+            "name": "Jini & Sagren",
+            "location": "Namibia",
+            "rating": 5,
+            "text": "Thank you Ananzi Team for creating these wonderful and amazing memories for us over these past 5 days in the land of natures wonderland, Namibia. I don't think any other tour team can cover the vast extent of all the major sightseeing destinations in our short time here. For this we really appreciate your efforts. To the friendly and fun people in our Tour Group it was a pleasurable experience to eb with your guys which makes traveling for us more enjoyable. Not forgetting the two young ladies that encouraged us to do all the daredevil adventures. Until we meet again in another Ananzi Group. All the best wishes to all of you"
+        },
+        {
+            "name": "Vishal Singh",
+            "location": "Namibia",
+            "rating": 5,
+            "text": "Marlin thank you so much for putting such an amazing trip, we thoroughly enjoyed, you did the supernatural for us."
+        },
+        {
+            "name": "Adele, Ashnee & Ravi",
+            "location": "Namibia",
+            "rating": 5,
+            "text": "Namibia was the best. We had an awesome time."
+        },
+        {
+            "name": "Gordon & Mogie",
+            "location": "Namibia",
+            "rating": 5,
+            "text": "Hi Marlin, still in awe of our amazing holiday in Namibia. Thank you and Nikki for making it happen. Keeping busy. Back to Joburg this weekend. Next weekend in Wild Coast for Daughter's Birthday. Then off to Sri Lanka, will keep in touch. Lots of Love"
+        },
+        {
+            "name": "Melissa Mkhize",
+            "location": "KwaZulu-Natal",
+            "rating": 5,
+            "text": "The team went out of their way to assist us."
+        },
+        {
+            "name": "Jason Pillay",
+            "location": "Durban",
+            "rating": 4,
+            "text": "Professional service and helpful travel support."
+        }
+    ],
+
+    "gallery": [
+        {
+            "image": "assets/img/gallery/gal/galImg_001.jpg",
+            "title": "Ananzi Experiences",
+            "category": "Tours"
+        },
+        {
+            "image": "assets/img/gallery/gal/galImg_002.jpg",
+            "title": "Ananzi Experiences",
+            "category": "Tours"
+        },
+        {
+            "image": "assets/img/gallery/gal/galImg_003.jpg",
+            "title": "Ananzi Experiences",
+            "category": "Tours"
+        },
+        {
+            "image": "assets/img/gallery/gal/galImg_004.jpg",
+            "title": "Ananzi Experiences",
+            "category": "Tours"
+        },
+        {
+            "image": "assets/img/gallery/gal/galImg_005.jpg",
+            "title": "Ananzi Experiences",
+            "category": "Tours"
+        },
+        {
+            "image": "assets/img/gallery/gal/galImg_006.jpg",
+            "title": "Ananzi Experiences",
+            "category": "Tours"
+        },
+        {
+            "image": "assets/img/gallery/gal/galImg_007.jpg",
+            "title": "Ananzi Experiences",
+            "category": "Tours"
+        },
+        {
+            "image": "assets/img/gallery/gal/galImg_008.jpg",
+            "title": "Ananzi Experiences",
+            "category": "Tours"
+        },
+        {
+            "image": "assets/img/gallery/gal/galImg_009.jpg",
+            "title": "Ananzi Experiences",
+            "category": "Tours"
+        },
+        {
+            "image": "assets/img/gallery/gal/galImg_010.jpg",
+            "title": "Ananzi Experiences",
+            "category": "Tours"
+        },
+        {
+            "image": "assets/img/gallery/gal/galImg_011.jpg",
+            "title": "Ananzi Experiences",
+            "category": "Tours"
+        },
+        {
+            "image": "assets/img/gallery/gal/galImg_012.jpg",
+            "title": "Ananzi Experiences",
+            "category": "Tours"
+        },
+        {
+            "image": "assets/img/gallery/gal/galImg_013.jpg",
+            "title": "Ananzi Experiences",
+            "category": "Tours"
+        },
+        {
+            "image": "assets/img/gallery/gal/galImg_014.jpg",
+            "title": "Ananzi Experiences",
+            "category": "Tours"
+        },
+        {
+            "image": "assets/img/gallery/gal/galImg_015.jpg",
+            "title": "Ananzi Experiences",
+            "category": "Tours"
+        },
+        {
+            "image": "assets/img/gallery/gal/galImg_016.jpg",
+            "title": "Ananzi Experiences",
+            "category": "Tours"
+        },
+        {
+            "image": "assets/img/gallery/gal/galImg_017.jpg",
+            "title": "Ananzi Experiences",
+            "category": "Tours"
+        },
+        {
+            "image": "assets/img/gallery/gal/galImg_018.jpg",
+            "title": "Ananzi Experiences",
+            "category": "Tours"
+        },
+        {
+            "image": "assets/img/gallery/gal/galImg_019.jpg",
+            "title": "Ananzi Experiences",
+            "category": "Tours"
+        },
+        {
+            "image": "assets/img/gallery/gal/galImg_020.jpg",
+            "title": "Ananzi Experiences",
+            "category": "Tours"
+        },
+        {
+            "image": "assets/img/gallery/gal/galImg_021.jpg",
+            "title": "Ananzi Experiences",
+            "category": "Tours"
+        },
+        {
+            "image": "assets/img/gallery/gal/galImg_022.jpg",
+            "title": "Ananzi Experiences",
+            "category": "Tours"
+        },
+        {
+            "image": "assets/img/gallery/gal/galImg_023.jpg",
+            "title": "Ananzi Experiences",
+            "category": "Tours"
+        },
+        {
+            "image": "assets/img/gallery/gal/galImg_024.jpg",
+            "title": "Ananzi Experiences",
+            "category": "Tours"
+        },
+        {
+            "image": "assets/img/gallery/gal/galImg_025.jpeg",
+            "title": "Ananzi Experiences",
+            "category": "Tours"
+        },
+        {
+            "image": "assets/img/gallery/gal/galImg_026.jpeg",
+            "title": "Ananzi Experiences",
+            "category": "Tours"
+        },
+        {
+            "image": "assets/img/gallery/gal/galImg_027.jpeg",
+            "title": "Ananzi Experiences",
+            "category": "Tours"
+        },
+        {
+            "image": "assets/img/gallery/gal/galImg_028.jpeg",
+            "title": "Ananzi Experiences",
+            "category": "Tours"
+        },
+        {
+            "image": "assets/img/gallery/gal/galImg_029.jpeg",
+            "title": "Ananzi Experiences",
+            "category": "Tours"
+        }
+    ],
+
+    "affiliations": [
+        {
+            "name": "SA Travel & Tourism",
+            "image": "assets/img/affiliations/aff001.jpg"
+        },
+        {
+            "name": "B-BBEE Level 1",
+            "image": "assets/img/affiliations/aff002.jpg"
+        },
+        {
+            "name": "16 YEARS",
+            "image": "assets/img/affiliations/aff003.png"
+        },
+        {
+            "name": "Ananzi Marketing",
+            "image": "assets/img/affiliations/aff004.png"
+        }
+    ],
+
+    "officeHours": [
+        {
+            "day": "Sunday",
+            "hours": "Closed"
+        },
+        {
+            "day": "Monday",
+            "hours": "8:00 AM – 8:00 PM"
+        },
+        {
+            "day": "Tuesday",
+            "hours": "8:00 AM – 8:00 PM"
+        },
+        {
+            "day": "Wednesday",
+            "hours": "8:00 AM – 8:00 PM"
+        },
+        {
+            "day": "Thursday",
+            "hours": "8:00 AM – 8:00 PM"
+        },
+        {
+            "day": "Friday",
+            "hours": "8:00 AM – 9:00 PM"
+        },
+        {
+            "day": "Saturday",
+            "hours": "10:00 AM – 2:00 PM"
+        }
+    ]
+}
