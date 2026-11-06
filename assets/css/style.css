@@ -15,7 +15,7 @@
     --navy-3: #10344f;
 
     --gold: #e7bd63;
-    --gold-light: #f3d88e;
+    --gold-light: #fb9803;
 
     --white: #ffffff;
     --off-white: #f7f8f6;
@@ -219,12 +219,12 @@ p {
 
     color: var(--navy);
 
-    background: var(--gold);
+    background: var(--gold-light);
 
 }
 
 .btn-gold:hover {
-    background: var(--gold-light);
+    background: var(--gold);
 }
 
 .btn-dark {
@@ -489,7 +489,7 @@ p {
             rgba(3,17,30,.18)
         ),
 
-        url("../img/bg/heroBG.jpg")
+        url("../img/bg/heroBG.png")
         center / cover
         no-repeat,
 
