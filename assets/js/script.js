@@ -87,11 +87,11 @@ function renderHeader() {
                 >
 
                     <img
-                        src="assets/img/logo/logo - Copy2.png"
+                        src="assets/img/logo/logo1.png"
                         alt="Ananzi Marketing"
                         onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
                         style="height: 100px;"
-                    >
+                    >                
 
                     <span class="brand-fallback">
                         ANANZI
@@ -250,7 +250,7 @@ function renderFooter() {
                         class="footer-logo"
                     >
                         <img
-                            src="./assets/img/logo/logo - Copy2.png"
+                            src="./assets/img/logo/logo.png"
                             alt="Ananzi Marketing"
                             style="width=50px"
                         >
